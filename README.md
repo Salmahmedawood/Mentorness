@@ -10,3 +10,4 @@ https://github.com/Salmahmedawood/Mentorness/assets/167317286/de1bc856-1360-481c
 https://github.com/Salmahmedawood/Mentorness/assets/167317286/be1a2926-3226-42fd-9d38-b5cc8166134a
 
 # Task 3: Songs Analysis 
+[Songs Analysis.pptx](https://github.com/user-attachments/files/16110222/Songs.Analysis.pptx)
